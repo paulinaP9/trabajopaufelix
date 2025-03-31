@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tito Doble P</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 10px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a la Página de Tito Doble P</h1>
+    </header>
+    
+    <section>
+        <h2>Sobre Tito Doble P</h2>
+        <img src="https://via.placeholder.com/600x300" alt="Tito Doble P">
+        <p>Tito Doble P es un artista emergente con una gran pasión por la música y el entretenimiento. Su estilo único y su energía contagiosa lo han convertido en una figura destacada en la escena musical.</p>
+        <p>Desde sus inicios, ha trabajado arduamente para perfeccionar su arte y conectar con su audiencia a través de letras sinceras y ritmos envolventes.</p>
+    </section>
+
+    <section>
+        <h2>Discografía</h2>
+        <img src="https://via.placeholder.com/600x300" alt="Álbum de Tito Doble P">
+        <p>Su discografía incluye múltiples éxitos que han resonado con su público. Cada álbum refleja su evolución como artista y su compromiso con la innovación musical.</p>
+        <p>Desde sus primeros sencillos hasta sus más recientes lanzamientos, Tito ha demostrado ser un talento versátil y creativo.</p>
+    </section>
+
+    <section>
+        <h2>Próximos Eventos</h2>
+        <img src="https://via.placeholder.com/600x300" alt="Concierto de Tito Doble P">
+        <p>Actualmente, Tito Doble P se encuentra en una gira internacional, llevando su música a diferentes ciudades y compartiendo su arte con sus seguidores.</p>
+        <p>Si deseas asistir a uno de sus conciertos, mantente atento a las fechas y lugares donde se presentará próximamente.</p>
+    </section>
+</body>
+</html>
